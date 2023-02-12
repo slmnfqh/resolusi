@@ -1,0 +1,4 @@
+slmnfqh resolusi  :
+- menguasai php oop
+- menguasai js dom
+- mengusai api 
