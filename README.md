@@ -1,2 +1,2 @@
 # resolusi
-repository untuk menyimpan sc
+repository untuk menyimpan source code
