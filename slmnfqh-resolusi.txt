@@ -1,6 +1,6 @@
 slmnfqh resolusi  :
 - menguasai php oop
-- menguasai js dom
 - mengusai api 
 - menguasai laravel
 - menguasai react js
+- membuat project!
